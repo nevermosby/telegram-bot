@@ -1,0 +1,16 @@
+{
+    "name": "telegram-bot",
+    "version": "0.0.1",
+    "description": "telegram bot",
+    "author": "nevermosby <legendarilylwq@gmail.com>",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+      "nodejs",
+      "telegraf.js",
+      "bot"
+    ],
+    "dependencies": {
+      "telegraf": "^3.32.0"
+    }
+  }
